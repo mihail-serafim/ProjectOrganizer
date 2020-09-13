@@ -1,2 +1,2 @@
 # ProjectOrganizer
-lorem ipsum dolor sit amet
+The future home of my project organizing/bug tracking software
